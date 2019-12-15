@@ -1,6 +1,4 @@
 # hello-world
-first repository
+#Print Hello World! using Python.
+Print ("Hello, World!")
 
-Hi All,
-
-New to GitHub and finding my way around. Interested in all sorts of code.
